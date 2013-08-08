@@ -27,8 +27,8 @@ And then execute:
      rake db:migrate
      
      Add this lines in your config/routes.rb
-	 resources :schedule
-	 resources :scheduled
+	 resources :schedules
+	 resources :scheduleds
 	 resources :users 
  
 
