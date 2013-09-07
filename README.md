@@ -1,4 +1,5 @@
-# Agendare::Schedule
+# Agendare Schedule
+[![Gem Version](https://badge.fury.io/rb/agendare-schedule.png)](http://badge.fury.io/rb/agendare-schedule)
 
 The basic structure to implement schedule project. You have 3 objects to implement yours views, because the logic is implemented in this gem.
 
